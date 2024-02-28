@@ -1,4 +1,4 @@
-# Título do Seu Projeto
+# Projeto Player de Musica da Rocketseat
 
 ![Banner](../PlayerdeMusica/banner/banner.png)
 
